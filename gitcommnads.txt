@@ -1,0 +1,6 @@
+git status - to view the status of the file
+git init - to initiate an empty repo
+git rm --cache - to move file from staaged to untrusted
+git add - from untracked to staged
+git commit -m "your message" - from staged to tracked
+git restore - to restore the deleted files
